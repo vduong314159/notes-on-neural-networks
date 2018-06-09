@@ -1,0 +1,1 @@
+[Here](https://github.com/vduong314159/notes-on-neural-networks/blob/master/notes-on-neural-nets.ipynb) are my notes. It's in a Jupyter notebook. 
